@@ -5,6 +5,7 @@
     <title>Word Frequency Counter</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 
+
 </head>
 <body>
     <h1>Word Frequency Counter</h1>
