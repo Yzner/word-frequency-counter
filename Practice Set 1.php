@@ -17,7 +17,7 @@ $total = calculateTotalPrice($items);
 echo "Total price: $" . $total;
 function modifyString($string)
 {
-    $string = str_replace(' ', '', $string);
+    $string = str_replace('', ' ', $string);
     $string = strtolower($string);
 
     return $string;
